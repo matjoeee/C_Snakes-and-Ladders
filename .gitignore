@@ -50,4 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-cmake-build-debug
+
+# Debug folders
+Snake-and-Ladder/cmake-build-debug
