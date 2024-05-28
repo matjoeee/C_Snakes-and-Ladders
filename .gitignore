@@ -51,5 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Debug folders
-Snake-and-Ladder/cmake-build-debug
+# Folders
+*/cmake-build-debug
+*/.idea
