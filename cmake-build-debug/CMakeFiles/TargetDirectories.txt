@@ -1,3 +1,0 @@
-C:/Users/Wuyts/Documents/GitHub/Snake-and-Ladder/cmake-build-debug/CMakeFiles/Minigame.dir
-C:/Users/Wuyts/Documents/GitHub/Snake-and-Ladder/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Wuyts/Documents/GitHub/Snake-and-Ladder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
