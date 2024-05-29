@@ -103,11 +103,13 @@ int main(void) {                                // Main function
         p1.placement = actions(p1);
         if (p1.placement >= 100) {
             printf("!!! The winner is: %s !!!\n", p1.name);
+            return 1;
         }
         // Player 2
         p2.placement = actions(p2);
         if (p2.placement >= 100) {
             printf("!!! The winner is: %s !!!\n", p2.name);
+            return 1;
         }
     }
 
